@@ -9,7 +9,7 @@ Packages
   - aur: https://aur.archlinux.org/packages/storebackup/
   - upstream: http://savannah.nongnu.org/projects/storebackup
 - dpastecli-git
-  - aur: https://aur.archlnux.org/packages/dpastecli-git/
+  - aur: https://aur.archlinux.org/packages/dpastecli-git/
   - upstream: https://github.com/jens-na/dpastecli
 - tagesschau-git
   - aur: https://aur.archlinux.org/packages/tagesschau-git/
