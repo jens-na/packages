@@ -1,5 +1,4 @@
 env:
   aur:
   - user: jens-na
-    secure: PpGQyxJWAe3r05orqJvWkTCK2VSDzVdfBcx+UD8bkGL3yjhvr4wdK6zPNZ7LtF4ZXKFmZnOZ1dLUWE27dgoMkeokPu/x05DuW0tmNrcGYUUfVQVF9CrT99EPTr/RVg5/3UgpJ3yekzRwqlx7GiyPHjgzyjUk+LiSoxAgwoLwuMk=
   - secure: P9YOfsM8uB5stlwlqPPbLPbU/R33DRaGStkZPcE2+t9nqvoMLImZaWb43oNgqHs8jgd2w6SiKm8Ydxm8GEmzFjh4qHRwwMWeIkRhKIX3GqLwYaW+ZZCBKm/n8ugtetrPA4yRTYvoMryumuJhHpUfrWNreksqgFA5EtgTE6fzXmg=
