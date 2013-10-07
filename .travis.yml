@@ -6,6 +6,6 @@ env:
 language: c
 
 before_script:
-  - git clone https://github.com/jens-na/github-archlinux-pkg.git
-
+  - wget "https://github.com/jens-na/github-archlinux-pkg/archive/master.zip" -O pkgpush.zip
+  - unzip pkgpush.zip -d pkgpush
 script: find
