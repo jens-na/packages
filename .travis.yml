@@ -1,5 +1,4 @@
 env:
   global:
-    - aur_user: jens-na
-    - aur_passwd:
-        secure: b/VEXq0GgYP/Ryob9Fag83v1/VxDMIpOKaroQLIml65MQbRwCRdStoKogO2/g1AQR/gziu1EuydFa8zUSmLs7K+X3Wc1OWaeF6szWbXZEW2iPAYIL79GeT9fQMLYx3FMytitbvLRehVD954ibRlfnhpvYtTF5CXewhIrN7Q/i+g=
+    - user: jens-na
+    - secure: b/VEXq0GgYP/Ryob9Fag83v1/VxDMIpOKaroQLIml65MQbRwCRdStoKogO2/g1AQR/gziu1EuydFa8zUSmLs7K+X3Wc1OWaeF6szWbXZEW2iPAYIL79GeT9fQMLYx3FMytitbvLRehVD954ibRlfnhpvYtTF5CXewhIrN7Q/i+g=
