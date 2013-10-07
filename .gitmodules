@@ -1,0 +1,3 @@
+[submodule "github-archlinux-pkg"]
+	path = github-archlinux-pkg
+	url = https://github.com/jens-na/github-archlinux-pkg.git
