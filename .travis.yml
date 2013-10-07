@@ -6,5 +6,4 @@ language: c
 
 before_install:
   - git submodule update --init --recursive
-  - cd arch-install-scripts
-  - make
+  - github-archlinux-pkg/initialize
