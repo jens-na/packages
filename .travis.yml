@@ -4,4 +4,8 @@ env:
     - secure: YNl4B6pphwk0lbfW8j8p076UqM4NMN2shMObXlksixfbgNEbe6odsbWCtvMSejrYIO4YWAwGBIQeEEM+xPIQVcOvXR73FK4cRigiG0SxtY9mk6kYRa4mtJ2+QbCbmBsc4wCRZPqLXNrH6I+CrHJ275x9JBP1ax7L1Mxc9o3n+tM=
 
 language: c
-script: echo "Build"
+
+before_script:
+  - git clone "git@github.com:jens-na/github-archlinux-pkg.git"
+
+script: find
