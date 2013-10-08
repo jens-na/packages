@@ -1,6 +1,0 @@
-[submodule "github-archlinux-pkg"]
-	path = github-archlinux-pkg
-	url = https://github.com/jens-na/github-archlinux-pkg.git
-[submodule "arch-install-scripts"]
-	path = arch-install-scripts
-	url = git://projects.archlinux.org/arch-install-scripts.git
