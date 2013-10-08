@@ -7,5 +7,3 @@ language: c
 before_install:
   - git submodule update --init --recursive
   - github-aur/travis-prepare
-  - echo $MAKEPKG
-  - echo $MAKEPKG_CFG
