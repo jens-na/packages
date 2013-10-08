@@ -1,0 +1,3 @@
+[submodule "github-aur"]
+	path = github-aur
+	url = git@github.com:jens-na/github-aur.git
