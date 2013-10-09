@@ -7,3 +7,6 @@ language: c
 before_install:
   - git submodule update --init --recursive
   - github-aur/travis-prepare
+  - find /usr/etc/
+  - cat /usr/etc/pacman.conf
+  - cat /usr/etc/pacman.d/mirrorlist
